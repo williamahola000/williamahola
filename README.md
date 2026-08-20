@@ -6,8 +6,8 @@ I am an IT Specialist based in Oulu, Finland, focused on system support, automat
 
 ### 💻 Featured Projects
 
-- **Findable https://www.findable.lol/**  
-
+- **Findable https://www.findable.lol/**
+- **https://www.domainbee.lol/**
 ---
 
 ### 🛠️ Technical Skills
@@ -39,4 +39,4 @@ I am an IT Specialist based in Oulu, Finland, focused on system support, automat
 - **Email:** williamahola000@gmail.com
 - **Location:** Oulu, Finland
 - **Linkedin: https://www.linkedin.com/in/williamahola**
-- **Portfolio: [https://www.williamahola.com/]**
+- **Portfolio: https://www.williamahola.com/**
