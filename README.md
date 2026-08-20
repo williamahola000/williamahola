@@ -6,7 +6,7 @@ I am an IT Specialist based in Oulu, Finland, focused on system support, automat
 
 ### 💻 Featured Projects
 
-- **Findable [https://www.findable.lol/]**  
+- **Findable https://www.findable.lol/**  
 
 ---
 
