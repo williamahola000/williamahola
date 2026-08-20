@@ -38,3 +38,4 @@ I am an IT Specialist based in Oulu, Finland, focused on system support, automat
 
 - **Email:** williamahola000@gmail.com
 - **Location:** Oulu, Finland
+- **Linkedin: https://www.linkedin.com/in/williamahola**
