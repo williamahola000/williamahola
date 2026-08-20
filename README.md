@@ -1,6 +1,6 @@
 # Hi, I'm William 👋
 
-I am an IT Specialist based in Oulu, Finland, focused on system support, automation, and web development. I enjoy solving complex technical problems, building local tools, and experimenting with data analytics and AI systems.
+I am an IT Support Specialist based in Oulu, Finland. I enjoy solving complex technical problems, building local tools, and experimenting with data analytics and AI systems.
 
 ---
 
