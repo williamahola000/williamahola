@@ -7,7 +7,7 @@ I am an IT Specialist based in Oulu, Finland, focused on system support, automat
 ### 💻 Featured Projects
 
 - **Findable https://www.findable.lol/**
-- **https://www.domainbee.lol/**
+- **DomainBee https://www.domainbee.lol/**
 ---
 
 ### 🛠️ Technical Skills
